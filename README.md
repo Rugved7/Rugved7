@@ -1,9 +1,7 @@
 
-
 <h1 align="center">Hi👋,I'm Rugved Agasti</h1>
 <h3 align="center">Sorting out life in O(1) is a luck.</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, and Web development.**
+- 🌱 I’m currently learning Data Structures and Algorithms, and Web  development. 
 
 - 📫Contact me **rugvedagasti7@gmail.com**
 
