@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi👋,I'm Rugved Agasti</h1>
 <h3 align="center">Sorting out life in O(1) is a luck.</h3>
-- 🌱 I’m currently learning Data Structures and Algorithms, doing Machine Learning . 
+- 🌱 I'm a Full Stack Web Developer and a Student. 
 
 - 📫Contact me **rugvedagasti7@gmail.com**
 
-- ⚡ Fun fact **I do things better than I talk.**
+- ⚡ Fun fact **Eat . Sleep .Code . Repeat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
