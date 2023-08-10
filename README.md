@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js , TypeScript, Docker, Kubernetes, AI/ML**
 
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
+- 💬 Ask me about **React, JavaScript, Backend Development**
 
 - 📫 How to reach me **rugvedagasti7@gmail.com**
 
