@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rugved7/Rugved7/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">Full Stack Web Developer : "Building Digital Dreams | Crafting Ideas with Code"</h3>
-<img align = "right" alt = "coding" width = "400" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p4MDhjcm02YnNnaTJhYnI3dHkzZXZnanA1dW83N21uZDNrNGtydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA2YXYxZTMzdXl2NGhxMTF6aHUyOGR2bDZxYXF1dW5kOXUzc2k0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif)">
+<img align = "right" alt = "coding" width = "400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p4MDhjcm02YnNnaTJhYnI3dHkzZXZnanA1dW83N21uZDNrNGtydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat" alt="rugved7" /> </p>
 
 - 🌱 I’m currently learning **Next.js , TypeScript, Docker, Kubernetes, Golang**
