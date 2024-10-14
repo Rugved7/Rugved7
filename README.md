@@ -4,7 +4,7 @@
 <img align = "right" alt = "coding" width = "400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ0azlyaDYzYTZ4aWd2czlnZDVkcTRzZGFyd2htOTVrcG0xbHY1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat" alt="rugved7" /> </p>
 
-- 🌱 I’m currently learning **Next.js , TypeScript, Docker, Kubernetes, Golang**
+- 🌱 I’m currently learning **TypeScript, Docker, Kubernetes, Golang**
 
 - 💬 Ask me about **React, JavaScript, Backend Development**
 
