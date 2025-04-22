@@ -1,4 +1,7 @@
-![logo](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<!-- Add a coding gif banner -->
+<div align="center"
+</div>
+
 <h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
@@ -94,9 +97,4 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugved7&theme=radical" alt="Rugved's GitHub Contribution" />
-</p>
-
-<!-- Optional: GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rugved7&theme=redical" alt="Rugved's contribution graph" />
 </p>
