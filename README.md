@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat" alt="rugved7" />
 </p>
 
-- 🌱 I’m currently learning **Java Multithreading, Microservices, Next.js, LLMs**  
+- 🌱 I'm currently learning **Java Multithreading, Microservices, Next.js, LLMs**  
 - 💬 Ask me about **Java Backend, Spring Boot, React.js, Fullstack Development**  
 - 📫 How to reach me: **rugvedagasti7@gmail.com**  
 - ⚡ Fun fact: **Eat. Sleep. Code. Repeat.**
@@ -70,4 +70,33 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rugved7&show_icons=true&theme=radical" alt="Rugved's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugved7&theme=radical" alt="Rugved's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved7&layout=compact&theme=radical" alt="Rugved's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rugved7&theme=radical&column=7" alt="Rugved's GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugved7&theme=radical" alt="Rugved's GitHub Contribution" />
+</p>
+
+<!-- Optional: GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rugved7&theme=redical" alt="Rugved's contribution graph" />
 </p>
