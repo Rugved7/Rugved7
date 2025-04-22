@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat" alt="rugved7" />
 </p>
 
-- 🌱 I'm currently learning **Java Multithreading, Microservices, Next.js, LLMs**  
+- 🌱 I'm currently learning **Java Multithreading, Microservices, Next.js, Integrating LLMs**  
 - 💬 Ask me about **Java Backend, Spring Boot, React.js, Fullstack Development**  
 - 📫 How to reach me: **rugvedagasti7@gmail.com**  
 - ⚡ Fun fact: **Eat. Sleep. Code. Repeat.**
