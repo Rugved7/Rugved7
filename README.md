@@ -1,6 +1,6 @@
 <!-- Add a coding gif banner -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" alt="Coding Banner" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" height="100vh" alt="Coding Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rugved</h1>
