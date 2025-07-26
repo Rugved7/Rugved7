@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat" alt="rugved7" />
 </p>
 
-- 🌱 I'm currently learning **Java Multithreading, Microservices, Next.js, Integrating LLMs**  
-- 💬 Ask me about **Java Backend, Spring Boot, React.js, Fullstack Development**  
+- 🌱 I'm currently learning **Java Multithreading, Microservices, Integrating LLMs**  
+- 💬 Ask me about **Java Backend, Spring Boot, React.js, Low Level Programming ,Fullstack Development**  
 - 📫 How to reach me: **rugvedagasti7@gmail.com**  
-- ⚡ Fun fact: **Eat. Sleep. Code. Repeat.**
+- ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button **
 
 ---
 
