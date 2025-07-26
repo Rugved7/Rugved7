@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **Java Multithreading, Microservices, Integrating LLMs**  
 - 💬 Ask me about **Java Backend, Spring Boot, React.js, Low Level Programming ,Fullstack Development**  
 - 📫 How to reach me: **rugvedagasti7@gmail.com**  
-- ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button **
+- ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button**
 
 ---
 
