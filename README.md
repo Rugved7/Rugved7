@@ -9,9 +9,9 @@
 ---
 
 ### 🔥 About Me
-- 💻 Passionate about building robust backend systems and elegant frontend interfaces
-- 🌱 Currently mastering **Java Multithreading, Microservices, and LLM Integration**
-- 🚀 Working on scalable architectures and performance optimization
+- 💻 Passionate about building robust backend systems and elegant frontend interfaces  
+- 🌱 Currently mastering **Java Multithreading, Microservices, and LLM Integration**  
+- 🚀 Working on scalable architectures and performance optimization  
 - ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button**
 
 ---
@@ -83,10 +83,15 @@
 
 ---
 
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section will auto-update from your GitHub activity -->
-<!--END_SECTION:activity-->
+### 🧠 Focus Areas & Engineering Philosophy
+
+- 🔍  Writing clean, testable, and scalable backend code  
+- 🧩  Designing systems with clear separation of concerns  
+- 🛠️  Choosing the right tools — not the trendy ones  
+- 🚦  Balancing performance, reliability, and readability  
+- 🌐  Building APIs that are self-documenting and intuitive  
+- ♻️  Refactoring with intent, not just for aesthetics  
+- 📈  Optimizing not just for speed, but for maintainability  
 
 ---
 
