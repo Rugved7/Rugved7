@@ -1,13 +1,1 @@
-name: Update Activity
-on:
-  schedule:
-    - cron: "0 * * * *"  # Runs hourly
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://github.com/Rugved7.private.atom?token=YOUR_TOKEN"
+
