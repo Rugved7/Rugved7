@@ -1,100 +1,131 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Banner" width="600"/>
-  <h1>Hi 👋, I'm Rugved</h1>
-  <h3>Full Stack Java Developer</h3>
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Banner" width="600" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=flat)
+  <h1 style="font-size: 3.5em; font-family: 'Fira Code', monospace; color: #58A6FF; margin-bottom: 5px; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Hi 👋, I'm Rugved</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Building+Scalable+Backends;Debugging+With+Passion;Learning+Everyday;Coffee+%3C3+Code" alt="Typing Animation"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-top: 15px;"/>
 </div>
 
 ---
 
-### 🔥 About Me
-- 💻 Passionate about building robust backend systems and designing systems 
-- 🌱 Currently mastering **Java Multithreading, Microservices, and LLM Integration**  
-- 🚀 Working on scalable architectures and performance optimization  
-- ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button**
+## 🔥 About Me  
+- 💻 Passionate about building **robust backend systems** and designing **scalable architectures**  
+- 🌱 Currently mastering **Java Multithreading, Microservices, and System Design**  
+- 🚀 Focused on **performance optimization & scalability**  
+- ⚡ Fun fact: **I’d rather debug a deadlock than fix a misaligned button**  
 
 ---
 
-### 📬 Connect With Me
-<p align="left">
+## 📬 Connect With Me  
+<p align="center" style="margin: 20px 0;">
   <a href="https://twitter.com/rugved_03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin: 0 5px;"/>
   </a>
   <a href="https://www.linkedin.com/in/rugved-agasti-09350121b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 5px;"/>
   </a>
   <a href="mailto:rugvedagasti7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 5px;"/>
   </a>
   <a href="https://medium.com/@rugvedagasti" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin: 0 5px;"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack  
 
-#### 📜 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center" style="background: rgba(13,17,23,0.7); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-#### 🚀 Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 📜 Languages  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🚀 Backend  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
 
-#### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 💻 Frontend  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugved7&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Streak Stats](https://streak-stats.demolab.com/?user=rugved7&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugved7&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rugved7&theme=radical&hide_border=true&area=true)
-  
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rugved7&theme=radical&no-frame=true&margin-w=15&row=2&column=4)
+## 📊 GitHub Stats  
 
----
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rugved7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&cache_seconds=3600" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  
+  <img src="https://streak-stats.demolab.com?user=rugved7&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF9671&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF" alt="" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); grid-column: span 2;"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugved7&theme=radical" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); grid-column: span 2;"/>
 
-### 🧠 Focus Areas & Engineering Philosophy
-
-- 🔍  Writing clean, testable, and scalable backend code  
-- 🧩  Designing systems with clear separation of concerns  
-- 🛠️  Choosing the right tools — not the trendy ones  
-- 🚦  Balancing performance, reliability, and readability  
-- 🌐  Building APIs that are self-documenting and intuitive  
-- ♻️  Refactoring with intent, not just for aesthetics  
-- 📈  Optimizing not just for speed, but for maintainability  
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&center=true&vCenter=true&width=435&lines=Building+scalable+solutions;Debugging+with+passion;Learning+everyday;Coffee+%3C3+Code" alt="Typing SVG" />
 </div>
+
+---
+
+## 📈 GitHub Activity  
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rugved7&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&area_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%;"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=rugved7&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</div>
+
+---
+
+## 🧠 My Coding Philosophy  
+
+```java
+public class myApproach {
+    public static void main(String[] args) {
+        boolean writeCleanCode = true;
+        boolean optimizePerformance = true;
+        boolean learnContinuously = true;
+        boolean buildProjects = true;
+        
+        while(true) {
+            designSystem();
+            writeEfficientCode();
+            refactorWhenNeeded();
+            debugChallengingProblems();
+            
+            if (newTechnologyExists()) {
+                learnAndImplement();
+            }
+            
+            if (performanceCanBeImproved()) {
+                optimize();
+            }
+            
+            shareKnowledge();
+            drinkTea();
+        }
+    }
+    
+    private static void drinkTea() {
+        System.out.println("Fueling creativity ☕");
+    }
+}
