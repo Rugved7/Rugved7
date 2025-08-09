@@ -70,16 +70,19 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
   
+  <!-- Main Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=rugved7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&cache_seconds=3600" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   
-  <img src="https://streak-stats.demolab.com?user=rugved7&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF9671&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF" alt="" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <!-- Streak Stats - Updated to show total contributions -->
+ <img src="https://streak-stats.demolab.com/?user=rugved7&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF9671&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&include_all_commits=true&date_format=j%20M%5B%20Y%5D" alt="" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); grid-column: span 2;"/>
   
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugved7&theme=radical" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); grid-column: span 2;"/>
 
 </div>
-
 ---
 
 ## 📈 GitHub Activity  
