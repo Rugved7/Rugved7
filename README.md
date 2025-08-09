@@ -70,8 +70,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
@@ -89,21 +87,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugved7&theme=radical" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); grid-column: span 2;"/>
 
 </div>
----
+
 
 ## 📈 GitHub Activity  
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rugved7&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&area_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%;"/>
 </div>
 
----
 
 ## 🏆 GitHub Trophies  
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=rugved7&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </div>
 
----
 
 ## 🧠 My Coding Philosophy  
 
