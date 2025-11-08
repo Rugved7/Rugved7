@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Banner" width="600" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Building+Scalable+Backend;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Backend;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
 
   
   <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-top: 15px;"/>
