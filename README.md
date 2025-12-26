@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Banner" width="600" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Backend;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Systems;Debugging+With+Passion;Learning+Everyday;Chai+%E2%88%9D+Code" alt="Typing Animation"/>
 
   
   <img src="https://komarev.com/ghpvc/?username=rugved7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-top: 15px;"/>
@@ -11,7 +11,7 @@
 
 ## 🔥 About Me  
 - 💻 Passionate about building **robust backend systems** and designing **scalable architectures**  
-- 🌱 Currently mastering **Java Multithreading, Microservices, and System Design**  
+- 🌱 Currently working on **Writing clean code, Microservices, and System Design**  
 - 🚀 Focused on **performance optimization & scalability**  
 - ⚡ Fun fact: **I’d rather debug a 401 Error than fix a misaligned button**
 - ✌️ See my Portfolio at : [Visit link](https://rugved-agasti-dev.vercel.app/) 
@@ -42,10 +42,12 @@
 
 ### 📜 Languages  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
+
 
 ### 🚀 Backend  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
@@ -65,9 +67,11 @@
 
 #### 🛠️ Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 </div>
 
@@ -103,35 +107,31 @@
 
 
 ## 🧠 My Coding Philosophy  
+```golang
+package Code
 
-```java
-public class myApproach {
-    public static void main(String[] args) {
-        boolean writeCleanCode = true;
-        boolean optimizePerformance = true;
-        boolean learnContinuously = true;
-        boolean buildProjects = true;
-        
-        while(true) {
-            designSystem();
-            writeEfficientCode();
-            refactorWhenNeeded();
-            debugChallengingProblems();
-            
-            if (newTechnologyExists()) {
-                learnAndImplement();
-            }
-            
-            if (performanceCanBeImproved()) {
-                optimize();
-            }
-            
-            shareKnowledge();
-            drinkTea();
-        }
-    }
-    
-    private static void drinkTea() {
-        System.out.println("Fueling creativity ☕");
-    }
+import "fmt"
+
+func Code() {
+	for {
+		buildAPIs()
+		optimizeDB()
+
+		if bugsExist() {
+			debug()
+		}
+
+		if newTechEmerges() {
+			learn()
+		}
+
+		refactor()
+		drinkTea()
+	}
 }
+
+func init() {
+	fmt.Println("A server is not deployed — it is maintained.")
+}
+
+
