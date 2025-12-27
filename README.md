@@ -11,8 +11,8 @@
 
 ## 🔥 About Me  
 - 💻 Passionate about building **robust backend systems** and designing **scalable architectures**  
-- 🌱 Currently working on **Writing clean code, Microservices, and System Design**  
-- 🚀 Focused on **performance optimization & scalability**  
+- 🌱 Currently working on **Performance optimization, Microservices, and System Design**  
+- 🚀 Focused on **Writing clean code , maintainability & scalability**  
 - ⚡ Fun fact: **I’d rather debug a 401 Error than fix a misaligned button**
 - ✌️ See my Portfolio at : [Visit link](https://rugved-agasti-dev.vercel.app/) 
 
