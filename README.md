@@ -51,8 +51,12 @@
 
 ### 🚀 Backend  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+	<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -71,6 +75,8 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![New Relic]("https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white")
+
 
 
 </div>
